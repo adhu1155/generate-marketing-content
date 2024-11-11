@@ -9,3 +9,4 @@ social media posts. Users can access the application through a web browser and
 interact with it.
 
 [USER INTERFACE](https://github.com/adwaidislive/generate-marketing-content/blob/main/screenshots/user%20interface.jpg)
+<img src="screenshots\user interface.jpg"/>
