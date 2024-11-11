@@ -8,4 +8,4 @@ We used Streamlit for simple user interface for generating marketing content for
 social media posts. Users can access the application through a web browser and
 interact with it.
 
-![USER INTERFACE](screenshots\user interface.png)
+[USER INTERFACE](screenshots\user interface.png)
